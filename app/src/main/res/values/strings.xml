@@ -1,0 +1,43 @@
+<resources>
+        <string name="app_name">Unit Conversion</string>
+
+        <string-array name="Conversion">
+            <item>Select a conversion Type</item>
+            <item>Length</item>
+            <item>Mass</item>
+            <item>Temperature</item>
+            <item>Volume</item>
+        </string-array>
+
+       <string-array name="selectAConversionType">
+           <item>Select</item>
+       </string-array>
+
+        <string-array name="LengthUnits">
+            <item>Kilometre</item>
+            <item>Meter</item>
+            <item>Centimetre</item>
+            <item>Millimetre</item>
+            <item>Foot</item>
+            <item>Inch</item>
+        </string-array>
+
+        <string-array name="MassUnits">
+            <item>Tonne</item>
+            <item>Kilogram</item>
+            <item>Gram</item>
+            <item>Milligram</item>
+        </string-array>
+
+        <string-array name="TemperatureUnits">
+            <item>Celsius</item>
+            <item>Fahrenheit</item>
+            <item>Kelvin</item>
+        </string-array>
+
+        <string-array name="VolumeUnits">
+            <item>Liter</item>
+            <item>Milliliter </item>
+        </string-array>
+
+</resources>
